@@ -32,3 +32,4 @@ if vida == 0:
     print("Você errou mais de 5 vezes! GAME OVER :(")
 else:
     print("Parabéns! Você acertou todas as palavras!")
+    
