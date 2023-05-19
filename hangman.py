@@ -4,7 +4,7 @@ nome = input("Qual é o seu nome? ")
 print(f"Ok {nome} vamos começar!")
 palavras = ["python", "apartamento", "geladeira", "yejin", "advogada", "marina"]
 resposta = choice(palavras)
-vida = 7
+vida = 5
 while vida != 0:
     succeed = True
     print()
