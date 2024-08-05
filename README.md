@@ -1,4 +1,4 @@
-JOGO DA FORCA
+# JOGO DA FORCA
 
 Jogo da forca utilizando a linguagem python para a aula raciocíno algoritmo PUCPR - 1período
 
